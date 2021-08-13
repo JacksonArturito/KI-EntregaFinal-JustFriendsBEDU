@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">justfriends</string>
+
+    <string name="delete">Eliminar</string>
+    <string name="share">Compartir</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Cerrar</string>
+    <string name="delete_element">Deleting element</string>
+    <string name="sharing_element">Sharing element</string>
+    <string name="user">Usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="drawer.home">Home</string>
+    <string name="drawer.account">Cuenta</string>
+    <string name="drawer.payments">Pago</string>
+    <string name="drawer.settings">Configuración</string>
+    <string name="drawer.extra">Adicional</string>
+    <string name="drawer.about">Acerca de</string>
+    <string name="drawer.privacy">Privacidad</string>
+    <string name="drawer.favorite">Favoritos</string>
+
+    <string name="name">Nombre</string>
+    <string name="lastName">Apellido(s)</string>
+    <string name="numberPhone">Numero Telefónico</string>
+    <string name="passw">Contraseña</string>
+    <string name="logIn">Ingresar</string>
+    <string name="register">Registrarse</string>
+    <string name="passwordUser">Contraseña: 54321</string>
+    <string name="userName">Nombre: usuario</string>
+    <string name="emailUser">Email: correo@email.com</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="lengthPass">5 números</string>
+    <string name="lenghtNumber">10 digitos</string>
+
+    <!--Jazmin-->
+    <string name="title">Just Friend</string>
+    <string name="secondary_text">ENVIO GRATIS en todas las compras mayores a $999</string>
+    <string name="action_1">Enviar</string>
+    <string name="playera">Playeras</string>
+    <string name="sudadera">Sudaderas</string>
+    <string name="sticker">Strickers</string>
+    <string name="juego">Juegos</string>
+    <string name="content_description_media">Imagen : )</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Regina -->
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="next">Siguiente</string>
+    <string name="aceptar">Comprar</string>
+    <string name="favorites">Mis favoritos</string>
+
+</resources>
