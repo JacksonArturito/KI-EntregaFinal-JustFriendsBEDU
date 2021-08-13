@@ -3,6 +3,7 @@
 
 Introducción
 En este proyecto se desarrollo la parte visual e interactiva de una aplicación e-commerce de venta de playeras, sudederas y stickers con diferentes diseños disponibles al público en general. 
+
 Astrid : Login, Registro a pantalla principal.
 Ana Jazmin y Arturo : Pantallas de Lista de Playeras, Sudaderas, Stickers y  items Playeas Sudaderas Stickers 
 Regina : Sección Favoritos
